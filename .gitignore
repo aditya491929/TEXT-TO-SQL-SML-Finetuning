@@ -1,0 +1,5 @@
+spider_data/
+.venv/
+.DS_Store
+.prepared/
+SpiderData.zip
