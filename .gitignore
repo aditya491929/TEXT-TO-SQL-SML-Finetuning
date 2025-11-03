@@ -1,5 +1,5 @@
 spider_data/
 .venv/
 .DS_Store
-.prepared/
+prepared/
 SpiderData.zip
