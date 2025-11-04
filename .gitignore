@@ -3,3 +3,5 @@ spider_data/
 .DS_Store
 prepared/
 SpiderData.zip
+llama_spider_lora/
+outputs.zip
